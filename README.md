@@ -10,14 +10,14 @@ A full-stack React application deployed on Google Kubernetes Engine (GKE) with t
 - **CI/CD:** Integrated with Google Cloud Build for automated builds and deployments
 - **Monitoring:** Setup with Google Cloud Monitoring and Logging for app health and performance tracking
 
-### For source code navigate to `./reactApp` directory
+### For more details, please navigate to `./reactApp` directory
 
 ---
 
 ## About Me
 I am a Google Cloud Platform - Associate Cloud Engineer (GCP ACE) certified professional with hands-on experience in managing cloud infrastructure using Bash scripts and GUI. 
 
-As a certified professional, I possess a comprehensive understanding of Google Cloud Platform services and best practices. I have developed a broad and practical understanding of Google Cloud Platform’s core services. My expertise spans APIs, BigQuery, Cloud Storage, Compute Engine, GKE, and IAM. Additionally, I am proficient in serverless technologies such as Cloud Functions, App Engine, and Cloud Run, enabling efficient deployment of applications without managing servers. This well-rounded skill set empowers me to architect and operate robust, scalable, and secure cloud solutions tailored to diverse business needs.
+As a certified professional, I possess a comprehensive understanding of Google Cloud Platform services and best practices. I have developed a broad and practical understanding of Google Cloud Platform’s core services. My expertise spans APIs, BigQuery, Cloud Storage, Compute Engine, GKE, and IAM. Additionally, I am proficient in serverless technologies such as Cloud Functions, App Engine, and Cloud Run, enabling efficient deployment of applications without managing servers. This well-rounded skill set empowers me to architect and operate robust, scalable, and secure cloud solutions tailored to diverse business needs.  
 
 
 
@@ -43,7 +43,7 @@ As a certified professional, I possess a comprehensive understanding of Google C
 - Experienced in building and managing data warehouses using BigQuery for fast, SQL-based analytics on large datasets.
 - Deployed applications to Google Cloud with minimal manual intervention
 - Performed backup and monitoring for various cloud resources
-- Polished my skills by participating and excelling in multiple arcade games by GCP.
+- Polished my skills by participating and excelling in multiple arcade games by GCP.  
 
 
 
