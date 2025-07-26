@@ -20,22 +20,24 @@ I am a Google Cloud Platform - Associate Cloud Engineer (GCP ACE) certified prof
 ## 📜 Certification
 
 **Google Cloud Certified - Associate Cloud Engineer**  
-![GCP ACE Badge](https://cloud.google.com/images/certification-badges/gcp-associate-cloud-engineer.png)  
-*Credential ID:* YOUR_CREDENTIAL_ID  
-*Issued:* YYYY-MM-DD  
-*Expires:* YYYY-MM-DD  
+![GCP ACE Badge](https://google.accredible.com/1b58e7a9-946b-4f84-8862-072f81da98fd)  
+*Credential ID:* 789226
+*Issued:* 2023-05-11
+*Expires:* 2026-05-11
 
 ---
 
-## 🛠️ Bash Scripts for GCP
+## 🛠️ GCP Skills
 
 I have developed a collection of Bash scripts to automate and streamline common Google Cloud tasks, including but not limited to:
 
 - Created and managed Google Cloud resources (Compute Engine, Cloud Storage, IAM roles)
 - Automated GKE cluster setup and management
+- Implemented CI/CD pipelines using Google Cloud Build, Container Registry, and Kubernetes Engine to automate build, test, and deployment workflows.
+- Experienced in building and managing data warehouses using BigQuery for fast, SQL-based analytics on large datasets.
 - Deployed applications to Google Cloud with minimal manual intervention
-- Backup and monitoring scripts for cloud resources
-- Polished my skills by Participating and excelling in various Learn to Earn games by GCP.
+- Performed backup and monitoring for various cloud resources
+- Polished my skills by participating and excelling in multiple arcade games by GCP.
 
 These scripts are designed to save time and reduce manual errors while working with GCP.
 
