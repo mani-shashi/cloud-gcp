@@ -1,6 +1,6 @@
 # React App on GKE with Terraform
 
-Project to deploy a React app onto Google Kubernetes Engine with Terraform
+Deployed a React app on Google Kubernetes Engine with Terraform
 
 ## Pre-requisites
 
