@@ -10,22 +10,26 @@ A full-stack React application deployed on Google Kubernetes Engine (GKE) with t
 - **CI/CD:** Integrated with Google Cloud Build for automated builds and deployments
 - **Monitoring:** Setup with Google Cloud Monitoring and Logging for app health and performance tracking
 
-### For source code navigate to `reactApp` directory
-
-## About Me
-I am a Google Cloud Platform - Associate Cloud Engineer (GCP ACE) certified professional with hands-on experience in managing cloud infrastructure using Bash scripts and deploying scalable React applications on Google Kubernetes Engine (GKE).
+### For source code navigate to `./reactApp` directory
 
 ---
+
+## About Me
+I am a Google Cloud Platform - Associate Cloud Engineer (GCP ACE) certified professional with hands-on experience in managing cloud infrastructure using Bash scripts and GUI. 
+
+As a certified professional, I possess a comprehensive understanding of Google Cloud Platform services and best practices. I have developed a broad and practical understanding of Google Cloud Platform’s core services. My expertise spans APIs, BigQuery, Cloud Storage, Compute Engine, GKE, and IAM. Additionally, I am proficient in serverless technologies such as Cloud Functions, App Engine, and Cloud Run, enabling efficient deployment of applications without managing servers. This well-rounded skill set empowers me to architect and operate robust, scalable, and secure cloud solutions tailored to diverse business needs.
+
 
 ## 📜 Certification
 
 **Google Cloud Certified - Associate Cloud Engineer**  
-![GCP ACE Badge](https://google.accredible.com/1b58e7a9-946b-4f84-8862-072f81da98fd)  
-*Credential ID:* 789226
-*Issued:* 2023-05-11
-*Expires:* 2026-05-11
 
----
+🔗 [View Certificate](https://google.accredible.com/1b58e7a9-946b-4f84-8862-072f81da98fd)  
+*Credential ID:* 789226  
+*Issued:* 2023-05-11  
+*Expires:* 2026-05-11 
+
+
 
 ## 🛠️ GCP Skills
 
