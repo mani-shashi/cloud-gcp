@@ -20,6 +20,8 @@ I am a Google Cloud Platform - Associate Cloud Engineer (GCP ACE) certified prof
 As a certified professional, I possess a comprehensive understanding of Google Cloud Platform services and best practices. I have developed a broad and practical understanding of Google Cloud Platform’s core services. My expertise spans APIs, BigQuery, Cloud Storage, Compute Engine, GKE, and IAM. Additionally, I am proficient in serverless technologies such as Cloud Functions, App Engine, and Cloud Run, enabling efficient deployment of applications without managing servers. This well-rounded skill set empowers me to architect and operate robust, scalable, and secure cloud solutions tailored to diverse business needs.
 
 
+
+
 ## 📜 Certification
 
 **Google Cloud Certified - Associate Cloud Engineer**  
@@ -43,6 +45,6 @@ As a certified professional, I possess a comprehensive understanding of Google C
 - Performed backup and monitoring for various cloud resources
 - Polished my skills by participating and excelling in multiple arcade games by GCP.
 
-These scripts are designed to save time and reduce manual errors while working with GCP.
+
 
 ---
