@@ -33,8 +33,8 @@ As a certified professional, I possess a comprehensive understanding of Google C
 
 ## 🛠️ GCP Skills
 
-I have developed a collection of Bash scripts to automate and streamline common Google Cloud tasks, including but not limited to:
 
+- Developed a collection of Bash scripts to automate and streamline common Google Cloud tasks, helping save time and minimize manual errors when working with GCP.
 - Created and managed Google Cloud resources (Compute Engine, Cloud Storage, IAM roles)
 - Automated GKE cluster setup and management
 - Implemented CI/CD pipelines using Google Cloud Build, Container Registry, and Kubernetes Engine to automate build, test, and deployment workflows.
